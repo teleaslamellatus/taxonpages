@@ -18,7 +18,7 @@ If you have a question, want to report new data relevant to the project, or have
 
 Made possible by the wonderful:
 * Grace - Technical lead
-* Aragorn - Outside advisor 
+* Monique - Outside advisor 
 * Frodo - Lead curator
 * Samwise - Emotional support
 
